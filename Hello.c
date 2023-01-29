@@ -1,6 +1,6 @@
 # include<stdio.h>
 
 int main() {
-    printf("I am king of the ict world!\n");
+    printf("Hello,world!");
     return 0;
 }
