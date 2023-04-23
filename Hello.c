@@ -1,6 +1,5 @@
-# include<stdio.h>
-
+# include <stdio.h>
 int main() {
-    printf("I am King of The Ict World!, QU10");
+    printf("Hello, world! My name is Ashraful qu10! I am king of the ict world!");
     return 0;
 }
