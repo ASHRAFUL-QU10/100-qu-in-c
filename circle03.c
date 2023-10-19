@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 //area of circle
 int main(){
     float radius;
